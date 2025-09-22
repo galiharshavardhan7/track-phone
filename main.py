@@ -3,7 +3,7 @@ import folium
 from myphone import get_phone_info
 
 # Replace with your own API key
-API_KEY = "04491f1ec54d4bd1b953f96bba886d9b"
+API_KEY = "*8**8888*88***"
 
 
 def main():
